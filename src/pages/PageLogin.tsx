@@ -1,4 +1,4 @@
-export const PageWelcome = () => {
+export const PageLogin = () => {
 	return (
 		<>
 			<p>Log in here.</p>
